@@ -1,0 +1,2 @@
+# 72e240e2789c53c0-construction-competitor-monito
+contractors and project managers waste hours on spending hours building a system before you can actually use it. This fixes that.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Construction Competitor Monitoring And
